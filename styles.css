@@ -35,7 +35,7 @@ section {
 }
 
 .inicio-fundo {
-    background-image: url('cacau-santos.jpg');
+    background: url('cacau-santos.jpg');
     background-size: cover;
     background-position: center;
     border-radius: 80px;
@@ -47,7 +47,7 @@ section {
 }
 
 /* posicionamento para a imagem à direita */
-.img-inicio {
+.inicio {
     position: absolute;
     right: 0;
     top: 18rem;
@@ -81,7 +81,7 @@ section {
     margin-top: 3rem;
     margin-bottom: 3rem;
     background: url('raios.jpg') top right no-repeat,
-        url('img/raios.jpg art.jpeg') bottom left no-repeat;
+        url('raios.jpg art.jpeg') bottom left no-repeat;
     background-size: 180px 180px;
 }
 
@@ -111,7 +111,7 @@ h2 {
 }
 
 #contato {
-    background-image: url('raios.jpg');
+    background: url('raios.jpg');
     background-size: cover;
     padding: 4rem 0;
 }
